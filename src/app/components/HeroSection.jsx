@@ -37,7 +37,7 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-              Professional Fortnite Player
+              Software and Web Developer
           </p>
           <div>
             <Link
